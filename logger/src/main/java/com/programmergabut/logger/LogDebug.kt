@@ -9,6 +9,7 @@ class LogDebug {
 
         fun d(string: String){
             Log.d(TAG, string)
+            Log.d(TAG, string)
         }
     }
 
